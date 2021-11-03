@@ -11,7 +11,7 @@ interface Props {
 
 export default function MenuContainer(props: Props){
 
-    renderSections = () => {
+    const renderSections = () => {
 
     }
 
