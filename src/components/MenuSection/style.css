@@ -7,7 +7,7 @@
 .menu-separator {
     width: 90%;
     height: 0px;
-    border: 1.03944px solid #0078D4;
+    border: 0.03944px solid #0078D4;
     margin-top: 12px;
     margin-bottom: 12px;
 }
@@ -20,6 +20,6 @@
     color: #001423;
     align-self: flex-start;
     margin-left: 40px;
-    margin-top: 16px;
+    margin-top: 0px;
     margin-bottom: 10px;
 }

@@ -32,12 +32,29 @@ export default function MenuContainer(props: Props){
                 <MenuItem icon={require("../../icons/Downloads icon.svg").default} name="Downloads"/>
                 <MenuItem icon={require("../../icons/Extensions icon.svg").default} name="Extension"/>
             </MenuSection>
-            <MenuSection type="bottom">
+            <MenuSection type="top">
                 <MenuItem icon={require("../../icons/Print icon.svg").default} name="Print"/>
                 <MenuItem icon={require("../../icons/Save page as icon.svg").default} name="Save page as"/>
-                <MenuItem icon={require("../../icons/Print icon.svg").default} name="Create shortcut"/>
-                <MenuItem icon={require("../../icons/Print icon.svg").default} name="Cast"/>
-                <MenuItem icon={require("../../icons/Print icon.svg").default} name="Find in page"/>
+                <MenuItem icon={require("../../icons/Shortcut icon.svg").default} name="Create shortcut"/>
+                <MenuItem icon={require("../../icons/Cast icon.svg").default} name="Cast"/>
+                <MenuItem icon={require("../../icons/Find on this page icon.svg").default} name="Find in page"/>
+            </MenuSection>
+            <MenuSection title="Default browser">
+                Default browser section
+            </MenuSection>
+            <MenuSection title="Appearance">
+                Appearance section
+            </MenuSection>
+            <MenuSection title="Start page">
+                Start page section
+            </MenuSection>
+            <MenuSection title="Privacy settings">
+                Privacy settings section
+            </MenuSection>
+            <MenuSection type='bottom'>
+                <MenuItem icon={require("../../icons/Wave logo.svg").default} name="About Wave Browser"/>
+                <MenuItem icon={require("../../icons/Help icon.svg").default} name="Help"/>
+                <MenuItem icon={require("../../icons/Exit icon.svg").default} name="Exit"/>
             </MenuSection>
         </div>
     );

@@ -3,7 +3,7 @@ import React, { PropsWithChildren } from "react";
 import "./style.css"
 
 export interface Props {
-    type: 'top' | 'bottom' | 'middle';
+    type?: 'top' | 'bottom' | 'middle';
     title?: string;
 }
 
@@ -20,7 +20,9 @@ function SectionTitle(props: { title: string }){
 }
 
 export default function MenuSection(props: PropsWithChildren<Props>){
-    const { type, title } = props;
+    var { type, title } = props;
+    if(!type)
+        type = 'top'
     return (
         <div className="menu-section">
             {title && <SectionTitle title={title}/>}
