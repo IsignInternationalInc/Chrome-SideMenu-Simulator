@@ -1,0 +1,19 @@
+.menu-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.menu-separator {
+    width: 90%;
+    height: 0px;
+    border: 1.03944px solid #9BBED4;
+}
+
+.menu-section-title {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: -0.02em;
+    color: #003E65;
+}

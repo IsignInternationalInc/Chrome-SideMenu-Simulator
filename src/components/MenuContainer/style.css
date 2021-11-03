@@ -1,0 +1,6 @@
+.menu-container {
+    width: 404px;
+    height: auto;
+    filter: drop-shadow(0px 2px 10px rgba(0, 128, 194, 0.1));
+    background-color: ghostwhite;
+}
