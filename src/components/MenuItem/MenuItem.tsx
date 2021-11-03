@@ -19,7 +19,9 @@ export default function MenuItem(props: IMenuItem){
                 <div className="menu-toggle" ></div>
                 {props.sideComponent}
             </div>
-            {props.bottomComponent}
+            <div className="menu-item-bottom-component-container">
+                {props.bottomComponent}
+            </div>
         </div>
     );
 }
