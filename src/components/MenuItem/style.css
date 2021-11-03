@@ -1,7 +1,7 @@
 .menu-item-container {
     width: 100%;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 .menu-item {
     width: 100%;
