@@ -18,7 +18,10 @@ export default function MenuContainer(props: Props){
                 <MenuItem icon={icon} name="Item2"/>
                 <MenuItem icon={icon} name="Item3"/>
             </MenuSection>
-            <MenuSection type="bottom">
+            <MenuSection type="top">
+                Some section
+            </MenuSection>
+            <MenuSection type="bottom" title="Apperance">
                 <MenuItem icon={icon} name="Item1"/>
                 <MenuItem icon={icon} name="Item2"/>
                 <MenuItem icon={icon} name="Item3"/>
