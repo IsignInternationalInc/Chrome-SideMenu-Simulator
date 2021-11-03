@@ -7,7 +7,9 @@
 .menu-separator {
     width: 90%;
     height: 0px;
-    border: 1.03944px solid #9BBED4;
+    border: 1.03944px solid #0078D4;
+    margin-top: 12px;
+    margin-bottom: 12px;
 }
 
 .menu-section-title {
@@ -15,9 +17,9 @@
     font-size: 16px;
     line-height: 20px;
     letter-spacing: -0.02em;
-    color: #003E65;
+    color: #001423;
     align-self: flex-start;
-    margin-left: 28px;
-    margin-top: 28px;
+    margin-left: 40px;
+    margin-top: 16px;
     margin-bottom: 10px;
 }

@@ -15,8 +15,8 @@
 .menu-icon {
     width: 22px;
     height: auto;
-    margin-left: 22px;
-    margin-right: 22px;
+    margin-left: 40px;
+    margin-right: 16px;
 }
 
 
@@ -24,7 +24,7 @@
     font-size: 14px;
     line-height: 18px;
     letter-spacing: -0.02em;
-    color: #003E65;
+    color: #001423;
 }
 
 .menu-toggle {
