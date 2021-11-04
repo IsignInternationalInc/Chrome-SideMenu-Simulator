@@ -22,14 +22,14 @@ export default function MenuContainer(props: Props){
                 Zoom section
             </MenuSection>
             <MenuSection type="top">
-                <MenuItem icon={require("../../icons/Bookmarks icon.svg").default} name="f-Bookmarks"/>
+                <MenuItem icon={require("../../icons/Bookmarks icon.svg").default} name="Bookmarks"/>
                 <MenuItem icon={require("../../icons/Reading list icon.svg").default} name="Reading list"/>
                 <MenuItem icon={require("../../icons/History icon.svg").default} name="f-History"/>
                 <MenuItem icon={require("../../icons/Downloads icon.svg").default} name="Downloads"/>
                 <MenuItem icon={require("../../icons/Extensions icon.svg").default} name="Extension"/>
             </MenuSection>
             <MenuSection type="top">
-                <MenuItem icon={require("../../icons/Print icon.svg").default} name="f-Print"/>
+                <MenuItem icon={require("../../icons/Print icon.svg").default} name="Print"/>
                 <MenuItem icon={require("../../icons/Save page as icon.svg").default} name="f-Save page as"/>
                 <MenuItem icon={require("../../icons/Shortcut icon.svg").default} name="f-Create shortcut"/>
                 <MenuItem icon={require("../../icons/Cast icon.svg").default} name="f-Cast"/>
@@ -41,7 +41,7 @@ export default function MenuContainer(props: Props){
             <MenuSection title="Appearance">
                 <ThemeItem/>
                 <MenuItem icon={require("../../icons/Show bookmarks icon.svg").default} name="f-Show bookmarks bar"/>
-                <MenuItem icon={require("../../icons/Home page icon.svg").default} name="f-Show home"/>
+                <MenuItem icon={require("../../icons/Home page icon.svg").default} name="Show home"/>
             </MenuSection>
             <MenuSection title="Start page">
                 <MenuItem icon={require("../../icons/Most visited sites icon.svg").default} name="f-Most visited sites"/>
