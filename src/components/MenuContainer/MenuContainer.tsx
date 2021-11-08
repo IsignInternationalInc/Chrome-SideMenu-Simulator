@@ -1,7 +1,6 @@
 import React from "react";
-import MenuItem, { IMenuItem } from "../MenuItem/MenuItem";
+import MenuItem from "../MenuItem/MenuItem";
 import "./style.css"
-import icon from "../../icons/logo.svg";
 import MenuSection from "../MenuSection/MenuSection";
 import ThemeItem from "../ThemeSection/ThemeSection";
 
