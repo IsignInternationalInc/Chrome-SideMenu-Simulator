@@ -4,17 +4,17 @@
 <svg
    width="16"
    height="16"
-   viewBox="0 0 4.2333332 4.2333335"
+   viewBox="0 0 4.2333332 4.2333332"
    version="1.1"
-   id="svg14380"
-   sodipodi:docname="Bookmarks 16px original.svg"
+   id="svg1855"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Reset settings16px for the browser.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview14382"
+     id="namedview1857"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
@@ -23,23 +23,22 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="32"
-     inkscape:cx="7.71875"
-     inkscape:cy="7.828125"
+     units="px"
+     inkscape:zoom="15.78348"
+     inkscape:cx="6.7158827"
+     inkscape:cy="5.3536989"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
-     units="px"
-     height="16px">
+     inkscape:current-layer="g2247">
     <inkscape:grid
        type="xygrid"
-       id="grid1046" />
+       id="grid2793" />
   </sodipodi:namedview>
   <defs
-     id="defs14377">
+     id="defs1852">
     <clipPath
        id="clip0_1179:2925">
       <rect
@@ -63,10 +62,13 @@
      inkscape:label="Слой 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.91040311;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       d="m 593.82977,726.57344 -4.35314,-2.09816 -4.19628,2.39653 0.65028,-4.78846 -3.57596,-3.25033 4.75504,-0.86126 1.98622,-4.40535 2.28849,4.25617 4.80351,0.52768 -3.34067,3.49171 z"
-       transform="matrix(0.28522948,0.01136659,-0.01178175,0.29564732,-157.49351,-217.46274)"
-       id="path14580" />
+    <g
+       id="g2247"
+       transform="matrix(0.03996005,0,0,0.03996005,5.8336198,-0.07935916)">
+      <path
+         d="m -54.404574,87.848532 a 51.185243,49.660149 69.041296 0 0 3.014448,-60.027401 l 3.817472,-3.446407 -16.16765,-5.647079 3.578539,17.040991 3.64579,-3.307937 A 44.121587,42.806959 69.0413 1 1 -126.36431,26.47762 43.736297,42.433147 69.041287 0 1 -96.705689,11.049362 3.5026399,3.3982766 69.041288 0 0 -97.289971,4.0888264 51.115191,49.592184 69.041302 1 0 -54.404574,87.848532 Z"
+         id="path4283"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.15243;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
   </g>
 </svg>

@@ -1,4 +1,115 @@
-<svg width="21" height="16" viewBox="0 0 21 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="3.49902" y="0.5" width="17" height="12.5" rx="1.5" stroke="black"/>
-<rect x="0.5" y="2.74902" width="17" height="12.5" rx="1.5" fill="white" stroke="black"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333332"
+   version="1.1"
+   id="svg1855"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="New tab 16px for the browser.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1857"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="true"
+     units="px"
+     inkscape:zoom="22.627418"
+     inkscape:cx="1.9003494"
+     inkscape:cy="11.379999"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g9139"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-page="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid17525"
+       empspacing="2"
+       color="#f43f44"
+       opacity="0.1254902"
+       dotted="false"
+       originx="2.1166666"
+       originy="2.1166666" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1852">
+    <clipPath
+       id="clip0_1179:2925">
+      <rect
+         width="22"
+         height="22"
+         fill="white"
+         transform="translate(0.742188)"
+         id="rect14794" />
+    </clipPath>
+    <clipPath
+       id="clip0_1179:2925-8">
+      <rect
+         width="22"
+         height="22"
+         fill="white"
+         transform="translate(0.742188)"
+         id="rect14794-5" />
+    </clipPath>
+    <clipPath
+       id="clip0_1179:2925-86">
+      <rect
+         width="22"
+         height="22"
+         fill="white"
+         transform="translate(0.742188)"
+         id="rect14794-59" />
+    </clipPath>
+    <clipPath
+       id="clip0_1179:2925-8-0">
+      <rect
+         width="22"
+         height="22"
+         fill="white"
+         transform="translate(0.742188)"
+         id="rect14794-5-7" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2247"
+       transform="matrix(0.03996005,0,0,0.03996005,5.8336198,-0.07935916)"
+       inkscape:label="g2247">
+      <g
+         style="fill:none;stroke:#000000;stroke-width:1.19587;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="g9139"
+         transform="matrix(6.6211963,0,0,6.6211963,-451.16614,-12.484757)">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 60.787109,11.839844 c -0.0031,0.400403 -0.291189,0.684339 -0.642578,0.683594 l -0.002,0.884765 c 0.843042,0.0018 1.522629,-0.707963 1.529297,-1.560547 z"
+           id="path11804" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 50.060547,4.4042969 c -0.851403,0 -1.548174,0.7309658 -1.523438,1.6054687 l 0.890625,-0.025391 c -0.01118,-0.3953698 0.290339,-0.6894531 0.632813,-0.6894531 h 10.05664 c 0.342609,0 0.628622,0.2895941 0.63086,0.703125 l 0.0332,5.9492195 0.890625,-0.0059 -0.0332,-5.9472658 c -0.0046,-0.8568969 -0.67022,-1.5898437 -1.521485,-1.5898437 z"
+           id="rect3185" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 47.9375,6.2890625 c -0.864476,0 -1.5625,0.7253711 -1.5625,1.59375 v 7.2343755 c 0,0.86838 0.698023,1.593749 1.5625,1.593749 h 10.367187 c 0.864477,0 1.5625,-0.72537 1.5625,-1.593749 V 7.8828125 c 0,-0.8683779 -0.698024,-1.59375 -1.5625,-1.59375 z m 0,0.9023437 h 10.367187 c 0.366326,0 0.660157,0.2940841 0.660157,0.6914063 v 7.2343755 c 0,0.397325 -0.293832,0.691406 -0.660157,0.691406 H 47.9375 c -0.366326,0 -0.660156,-0.294082 -0.660156,-0.691406 V 7.8828125 c 0,-0.3973213 0.29383,-0.6914063 0.660156,-0.6914063 z"
+           id="rect3187" />
+      </g>
+    </g>
+  </g>
 </svg>

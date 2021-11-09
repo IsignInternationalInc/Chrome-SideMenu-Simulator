@@ -23,15 +23,15 @@ export default function MenuContainer(props: Props){
             <MenuSection type="top">
                 <MenuItem icon={require("../../icons/Bookmarks icon.svg").default} name="Bookmarks"/>
                 <MenuItem icon={require("../../icons/Reading list icon.svg").default} name="Reading list"/>
-                <MenuItem icon={require("../../icons/History icon.svg").default} name="f-History"/>
+                <MenuItem icon={require("../../icons/History icon.svg").default} name="History"/>
                 <MenuItem icon={require("../../icons/Downloads icon.svg").default} name="Downloads"/>
                 <MenuItem icon={require("../../icons/Extensions icon.svg").default} name="Extension"/>
             </MenuSection>
             <MenuSection type="top">
                 <MenuItem icon={require("../../icons/Print icon.svg").default} name="Print"/>
-                <MenuItem icon={require("../../icons/Save page as icon.svg").default} name="f-Save page as"/>
-                <MenuItem icon={require("../../icons/Shortcut icon.svg").default} name="f-Create shortcut"/>
-                <MenuItem icon={require("../../icons/Cast icon.svg").default} name="f-Cast"/>
+                <MenuItem icon={require("../../icons/Save page as icon.svg").default} name="Save page as"/>
+                <MenuItem icon={require("../../icons/Shortcut icon.svg").default} name="Create shortcut"/>
+                <MenuItem icon={require("../../icons/Cast icon.svg").default} name="Cast"/>
                 <MenuItem icon={require("../../icons/Find on this page icon.svg").default} name="f-Find in page"/>
             </MenuSection>
             <MenuSection title="Default browser">
@@ -44,7 +44,7 @@ export default function MenuContainer(props: Props){
             </MenuSection>
             <MenuSection title="Start page">
                 <MenuItem icon={require("../../icons/Most visited sites icon.svg").default} name="f-Most visited sites"/>
-                <MenuItem icon={require("../../icons/Recent activity icon.svg").default} name="f-Recent activity"/>
+                <MenuItem icon={require("../../icons/Recent activity icon.svg").default} name="Recent activity"/>
                 <MenuItem icon={require("../../icons/News icon 1.svg").default} name="f-Show news"/>
             </MenuSection>
             <MenuSection title="Privacy settings">
@@ -55,7 +55,7 @@ export default function MenuContainer(props: Props){
             </MenuSection>
             <MenuSection type='bottom'>
                 <MenuItem icon={require("../../icons/Wave logo.svg").default} name="About Wave Browser"/>
-                <MenuItem icon={require("../../icons/Help icon.svg").default} name="f-Help"/>
+                <MenuItem icon={require("../../icons/Help icon.svg").default} name="Help"/>
                 <MenuItem icon={require("../../icons/Exit icon.svg").default} name="Exit"/>
             </MenuSection>
         </div>
