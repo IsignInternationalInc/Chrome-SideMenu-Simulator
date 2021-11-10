@@ -32,7 +32,7 @@ export default function MenuContainer(props: Props){
                 <MenuItem icon={require("../../icons/Save page as icon.svg").default} name="Save page as"/>
                 <MenuItem icon={require("../../icons/Shortcut icon.svg").default} name="Create shortcut"/>
                 <MenuItem icon={require("../../icons/Cast icon.svg").default} name="Cast"/>
-                <MenuItem icon={require("../../icons/Find on this page icon.svg").default} name="f-Find in page"/>
+                <MenuItem icon={require("../../icons/Find on this page icon.svg").default} name="Find in page"/>
             </MenuSection>
             <MenuSection title="Default browser">
                 Default browser section
@@ -45,7 +45,7 @@ export default function MenuContainer(props: Props){
             <MenuSection title="Start page">
                 <MenuItem icon={require("../../icons/Most visited sites icon.svg").default} name="f-Most visited sites"/>
                 <MenuItem icon={require("../../icons/Recent activity icon.svg").default} name="Recent activity"/>
-                <MenuItem icon={require("../../icons/News icon 1.svg").default} name="f-Show news"/>
+                <MenuItem icon={require("../../icons/News icon 1.svg").default} name="Show news"/>
             </MenuSection>
             <MenuSection title="Privacy settings">
                 <MenuItem icon={require("../../icons/Block ads icon.svg").default} name="f-Block ads"/>
