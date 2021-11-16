@@ -1,6 +1,6 @@
 import React from "react";
 import MenuItem from "../MenuItem/MenuItem";
-import themeIcon from "../../icons/Theme icon.svg"
+import themeIcon from "../../icons/Themes 16px .svg"
 
 import "./style.css"
 

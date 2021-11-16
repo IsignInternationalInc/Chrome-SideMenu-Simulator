@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="30"
+   height="30"
+   version="1.1"
+   viewBox="0 0 30 30"
+   id="svg8"
+   sodipodi:docname="Help 16px.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="true"
+     inkscape:zoom="6.7666667"
+     inkscape:cx="-35.689655"
+     inkscape:cy="-1.8472906"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7613" />
+  </sodipodi:namedview>
+  <text
+     transform="scale(0.92277219,1.0836911)"
+     x="13.164604"
+     y="17.994059"
+     fill="#000000"
+     font-family="sans-serif"
+     font-size="11.819px"
+     stroke-miterlimit="3.5"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.8192px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+     xml:space="preserve"
+     id="text4"><tspan
+       x="13.164604"
+       y="17.994059"
+       font-family="mulish"
+       font-size="11.819px"
+       stroke-miterlimit="3.5"
+       id="tspan2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.8193px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none">?</tspan></text>
+  <ellipse
+     cx="15"
+     cy="15"
+     rx="7.4998"
+     ry="7.4998"
+     fill="none"
+     stroke="#000"
+     stroke-linejoin="round"
+     stroke-miterlimit="3.5"
+     stroke-width="1.0004"
+     id="ellipse6"
+     style="stroke-width:1;stroke-miterlimit:3.5;stroke-dasharray:none" />
+</svg>
