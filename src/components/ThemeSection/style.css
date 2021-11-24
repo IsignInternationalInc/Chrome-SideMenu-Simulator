@@ -1,4 +1,18 @@
 .theme-item-container {
     display: flex;
-    
+    justify-content: space-between;
+}
+
+.theme-item {
+    width: 96px;
+    height: 50px;
+    padding-bottom: 14px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    border-radius: 2px;
 }
