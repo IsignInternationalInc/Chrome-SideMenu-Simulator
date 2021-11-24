@@ -3,6 +3,7 @@ import MenuItem from "../MenuItem/MenuItem";
 import "./style.css"
 import MenuSection from "../MenuSection/MenuSection";
 import ThemeItem from "../ThemeSection/ThemeSection";
+import DefaultBrowserSection from "../DefaultBrowserSection/DefaultBrowserSection";
 
 
 interface Props {
@@ -34,9 +35,7 @@ export default function MenuContainer(props: Props){
                 <MenuItem icon={require("../../icons/Cast 16 px.svg").default} name="Cast"/>
                 <MenuItem icon={require("../../icons/Find on this page icon 16px.svg").default} name="Find in page"/>
             </MenuSection>
-            <MenuSection title="Default browser">
-                Default browser section
-            </MenuSection>
+            <DefaultBrowserSection />
             <MenuSection title="Appearance">
                 <ThemeItem/>
                 <MenuItem icon={require("../../icons/Show bookrmarks bar 16 px.svg").default} name="Show bookmarks bar"/>
