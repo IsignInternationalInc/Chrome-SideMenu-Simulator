@@ -1,0 +1,12 @@
+.zoom-section-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
+
+.zoom-section-separator {
+    min-height: 0px;
+    width: 1px;
+    background: cornflowerblue;
+}

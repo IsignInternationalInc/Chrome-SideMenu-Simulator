@@ -4,6 +4,7 @@ import "./style.css"
 import MenuSection from "../MenuSection/MenuSection";
 import ThemeItem from "../ThemeSection/ThemeSection";
 import DefaultBrowserSection from "../DefaultBrowserSection/DefaultBrowserSection";
+import ZoomSection from "../ZoomSection/ZoomSection";
 
 
 interface Props {
@@ -18,9 +19,7 @@ export default function MenuContainer(props: Props){
                 <MenuItem icon={require("../../icons/New window icon 16px.svg").default} name="New window"/>
                 <MenuItem icon={require("../../icons/Incognito icon 16px.svg").default} name="New incognito window"/>
             </MenuSection>
-            <MenuSection type="top">
-                Zoom section
-            </MenuSection>
+            <ZoomSection />
             <MenuSection type="top">
                 <MenuItem icon={require("../../icons/Bookmarks 16px.svg").default} name="Bookmarks"/>
                 <MenuItem icon={require("../../icons/Reading list 16px.svg").default} name="Reading list"/>

@@ -4,7 +4,7 @@ import "./style.css"
 
 export interface IMenuItem {
     name: string;
-    icon: any;
+    icon?: any;
     sideComponent?: ReactNode;
     bottomComponent?: ReactNode
 }
