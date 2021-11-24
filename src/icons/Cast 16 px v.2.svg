@@ -7,7 +7,7 @@
    viewBox="0 0 30 30"
    version="1.1"
    id="svg14380"
-   sodipodi:docname="Cast 16 px_v.2.svg"
+   sodipodi:docname="Cast 16 px.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="22.627417"
-     inkscape:cx="7.5572037"
-     inkscape:cy="16.152971"
+     inkscape:zoom="32"
+     inkscape:cx="8.609375"
+     inkscape:cy="18.140625"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -147,22 +147,36 @@
      d="m 10.406336,22 c -0.327997,0 -0.5938502,-0.265866 -0.5938502,-0.59388 0,-0.592565 -0.230745,-1.149642 -0.649801,-1.568719 C 8.7436278,19.418512 8.1865748,19.187759 7.5940383,19.187759 7.265853,19.187759 7,18.921891 7,18.59388 7,18.265866 7.265853,18 7.593851,18 8.5034968,18 9.3588818,18.354297 10.002299,18.997558 10.645717,19.641006 11,20.496432 11,21.406308 11,21.734134 10.734146,22 10.406336,22 Z"
      id="path15993"
      style="display:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
-  <circle
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+  <ellipse
+     style="fill:#000000;fill-opacity:1;stroke:#212500;stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
      id="path1111"
-     cx="8.25"
-     cy="20.75"
-     r="0.75" />
+     cx="8"
+     cy="20.998453"
+     rx="0.5"
+     ry="0.49993816" />
   <path
      id="rect985"
      style="fill:none;stroke:#000000;stroke-width:0.999998;stroke-linecap:butt;stroke-linejoin:bevel"
-     d="m 7.5,12.999443 v -2.49969 C 7.5,9.9458211 7.723,9.445883 8.0845,9.0844277 8.446,8.7229724 8.946,8.5 9.5,8.5 h 11 c 1.108,0 2,0.8918897 2,1.999753 v 8.998887 c 0,1.107862 -0.892007,1.99574 -2,1.999752 -1.816879,0.0066 -2.691534,-0.0099 -4.5,0"
+     d="M 7.5,14.999196 V 10.499753 C 7.5,9.9458211 7.723,9.445883 8.0845,9.0844277 8.446,8.7229724 8.946,8.5 9.5,8.5 h 11 c 1.108,0 2,0.8918897 2,1.999753 v 8.998887 c 0,1.107862 -0.892007,1.99574 -2,1.999752 -1.816879,0.0066 -4.691534,-0.0099 -6.5,0"
      sodipodi:nodetypes="csssssssc" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:1.00006;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+     style="fill:none;stroke:#000000;stroke-width:0.985397;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
      id="path1061"
      sodipodi:type="arc"
      sodipodi:cx="7.5"
+     sodipodi:cy="21.498392"
+     sodipodi:rx="3"
+     sodipodi:ry="2.999629"
+     sodipodi:start="4.712389"
+     sodipodi:end="0"
+     sodipodi:open="true"
+     sodipodi:arc-type="arc"
+     d="m 7.5,18.498763 a 3,2.999629 0 0 1 3,2.999629" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1.00006;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path2053"
+     sodipodi:type="arc"
+     sodipodi:cx="7.4999995"
      sodipodi:cy="21.498392"
      sodipodi:rx="5"
      sodipodi:ry="4.9993815"
@@ -170,18 +184,5 @@
      sodipodi:end="0"
      sodipodi:open="true"
      sodipodi:arc-type="arc"
-     d="M 7.5,16.499011 A 5,4.9993815 0 0 1 11.035534,17.963296 5,4.9993815 0 0 1 12.5,21.498392" />
-  <path
-     style="fill:none;stroke:#000000;stroke-width:1.00006;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-     id="path2053"
-     sodipodi:type="arc"
-     sodipodi:cx="7.4999995"
-     sodipodi:cy="21.498392"
-     sodipodi:rx="7.9999995"
-     sodipodi:ry="7.9990101"
-     sodipodi:start="4.712389"
-     sodipodi:end="0"
-     sodipodi:open="true"
-     sodipodi:arc-type="arc"
-     d="m 7.4999995,13.499382 a 7.9999995,7.9990101 0 0 1 7.9999995,7.99901" />
+     d="M 7.4999995,16.499011 A 5,4.9993815 0 0 1 12.5,21.498392" />
 </svg>

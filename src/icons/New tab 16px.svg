@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1855"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="New tab16px for.svg"
+   sodipodi:docname="New tab 16px.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,12 +25,12 @@
      showgrid="true"
      units="px"
      inkscape:zoom="22.627418"
-     inkscape:cx="8.1096305"
-     inkscape:cy="16.771688"
+     inkscape:cx="4.7066793"
+     inkscape:cy="15.003921"
      inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1855"
      inkscape:snap-to-guides="true"
@@ -68,6 +68,14 @@
        position="21.116667,3.8833334"
        orientation="0,-1"
        id="guide870" />
+    <sodipodi:guide
+       position="16.749591,25.845748"
+       orientation="0,-1"
+       id="guide852" />
+    <sodipodi:guide
+       position="20.196737,3.9254386"
+       orientation="0,-1"
+       id="guide854" />
   </sodipodi:namedview>
   <defs
      id="defs1852">
@@ -116,16 +124,23 @@
          y="0" />
     </clipPath>
   </defs>
-  <path
-     style="color:#000000;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-     d="m 10.498059,8.0156872 c -0.273645,0 -0.5228225,-0.054995 -0.862164,0.040958 C 9.4662243,8.1046211 9.2601814,8.2315612 9.1443443,8.4194082 9.0285072,8.607255 9,8.8089315 9,9.0142622 v 0.4992874 h 0.9987062 v -0.495387 c 0.067409,-0.00183 0.2191008,-0.00391 0.4993528,-0.00391 h 10.985768 c 0.194439,0 0.300831,0.055026 0.372565,0.1267722 0.07174,0.071746 0.126788,0.1782633 0.126788,0.3725152 v 7.988597 c 0,0.308761 -0.0022,0.43371 0,0.499287 H 21.483827 V 19 h 0.499353 c 0.18922,0 0.36532,-0.01215 0.55397,-0.105319 0.18865,-0.09317 0.346158,-0.299919 0.399873,-0.473932 0.107431,-0.348025 0.04486,-0.581429 0.04486,-0.918611 V 9.5135492 c 0,-0.4106221 -0.143099,-0.8022157 -0.419379,-1.0785386 -0.276279,-0.276323 -0.667766,-0.4193234 -1.07868,-0.4193234 z"
-     id="rect3026" />
   <rect
-     style="fill:none;stroke:#000000;stroke-width:1.00108;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#000000;stroke-width:0.999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect1045"
-     width="12.998925"
-     height="9.9989204"
-     x="7.5005322"
-     y="10.50054"
-     rx="1.094231" />
+     width="14.000001"
+     height="11"
+     x="6.5000005"
+     y="10.5"
+     rx="2"
+     ry="1.9999999" />
+  <path
+     id="rect2133"
+     style="display:none;fill:none;stroke:#000000;stroke-width:0.999999;stroke-linecap:square;stroke-linejoin:round"
+     d="M 9.3333333,8.7374999 C 9.3333333,7.5186999 10.091977,7.5 11.145003,7.5 H 21.599231 C 22.652257,7.5 23.5,8.4811999 23.5,9.6999999 V 18.5 h -0.472222"
+     sodipodi:nodetypes="cssscc" />
+  <path
+     id="rect7562"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 9.5,9.4999999 C 9.5,8.3919999 10.391014,7.5 11.497789,7.5 h 9.988942 c 1.106774,0 1.997788,0.8919999 1.997788,1.9999999 V 16.5 c 0,1.108 0.20777,2 -0.899004,2"
+     sodipodi:nodetypes="cssssc" />
 </svg>

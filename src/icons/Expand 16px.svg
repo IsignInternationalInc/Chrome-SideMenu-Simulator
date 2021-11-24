@@ -27,12 +27,12 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="28.708535"
-     inkscape:cx="10.989763"
-     inkscape:cy="21.091289"
+     inkscape:cx="9.5616164"
+     inkscape:cy="14.124719"
      inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg8">
     <inkscape:grid
@@ -56,17 +56,17 @@
        id="guide2070" />
   </sodipodi:namedview>
   <path
-     style="fill:none;stroke:#000000;stroke-width:0.99734;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 7.4986702,14.498671 V 22.50133 H 15.501329"
+     style="fill:none;stroke:#000000;stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 7.5000002,14.5 v 8 h 8.0000008"
      id="path1423"
      sodipodi:nodetypes="ccc" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 22.5,15.5 v -8 h -8"
+     style="fill:none;stroke:#000000;stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 22.500001,15.5 V 7.4999995 H 14.5"
      id="path2072"
      sodipodi:nodetypes="ccc" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:1.00194;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 11.50097,18.499028 C 18.499026,11.50097 18.499026,11.50097 18.499026,11.50097"
+     style="fill:none;stroke:#000000;stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 11.5,18.500493 c 7.000001,-7 7.000001,-7 7.000001,-7"
      id="path2284" />
 </svg>

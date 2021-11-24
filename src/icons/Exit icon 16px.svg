@@ -23,13 +23,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="22.627417"
-     inkscape:cx="8.7725435"
-     inkscape:cy="19.423339"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="17.942835"
+     inkscape:cy="73.80427"
      inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5"
      units="px"
@@ -37,19 +37,37 @@
      inkscape:snap-to-guides="false"
      inkscape:snap-others="false"
      inkscape:object-nodes="false"
-     inkscape:snap-global="false">
+     inkscape:snap-global="false"
+     showguides="true"
+     inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid829" />
+    <sodipodi:guide
+       position="13.523417,26.022524"
+       orientation="0,-1"
+       id="guide823" />
+    <sodipodi:guide
+       position="21.566757,4.0138258"
+       orientation="0,-1"
+       id="guide825" />
+    <sodipodi:guide
+       position="25.986174,11.040699"
+       orientation="1,0"
+       id="guide827" />
+    <sodipodi:guide
+       position="3.9774756,15.946253"
+       orientation="1,0"
+       id="guide829" />
   </sodipodi:namedview>
   <defs
      id="defs2" />
   <path
      style="fill:none;stroke:#000000;stroke-width:1.73248;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 7.8662434,7.86624 22.133757,22.133759"
+     d="M 7.5000001,7.0000003 22.5,22.000001"
      id="path1329" />
   <path
      style="fill:none;stroke:#000000;stroke-width:1.70517;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 21.647415,7.8525894 7.8525849,22.147414"
+     d="M 22,7 7.5,22"
      id="path1447" />
 </svg>
