@@ -32,7 +32,7 @@ export default function MenuContainer(props: Props){
                 <MenuItem icon={require("../../icons/Save page 16px.svg").default} name="Save page as"/>
                 <MenuItem icon={require("../../icons/Create shortcut 16px.svg").default} name="Create shortcut"/>
                 <MenuItem icon={require("../../icons/Cast 16 px.svg").default} name="Cast"/>
-                <MenuItem icon={require("../../icons/Find on this page icon 16px.svg").default} name="Find in page"/>
+                <MenuItem iconStyle={{ marginLeft: 41 }} icon={require("../../icons/Find on this page icon 16px.svg").default} name="Find in page"/>
             </MenuSection>
             <DefaultBrowserSection />
             <MenuSection title="Appearance">
