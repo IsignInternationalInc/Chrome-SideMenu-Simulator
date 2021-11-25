@@ -7,6 +7,6 @@
 
 .zoom-section-separator {
     min-height: 0px;
-    width: 1px;
-    background: cornflowerblue;
+    width: 0px;
+    border: 1px solid rgba(0, 120, 212, 0.3);
 }
