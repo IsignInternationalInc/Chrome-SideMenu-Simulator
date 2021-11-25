@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="17.942835"
-     inkscape:cy="73.80427"
+     inkscape:zoom="16"
+     inkscape:cx="8.4687499"
+     inkscape:cy="22.84375"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -63,11 +63,11 @@
   <defs
      id="defs2" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:1.73248;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 7.5000001,7.0000003 22.5,22.000001"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 7.5000001,7.5000003 22.5,22.500001"
      id="path1329" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:1.70517;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 22,7 7.5,22"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 22,7.5 7.5,22.5"
      id="path1447" />
 </svg>

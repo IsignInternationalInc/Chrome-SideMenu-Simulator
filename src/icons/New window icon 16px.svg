@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="New page icon 16px.svg"
+   sodipodi:docname="New window icon 16px.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,17 +26,28 @@
      units="px"
      width="30px"
      inkscape:zoom="22.627417"
-     inkscape:cx="17.611378"
-     inkscape:cy="12.661631"
+     inkscape:cx="13.633903"
+     inkscape:cy="23.400815"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false">
     <inkscape:grid
        type="xygrid"
        id="grid824" />
+    <sodipodi:guide
+       position="4,18"
+       orientation="1,0"
+       id="guide827" />
+    <sodipodi:guide
+       position="26,20"
+       orientation="1,0"
+       id="guide829" />
   </sodipodi:namedview>
   <defs
      id="defs2" />
@@ -47,7 +58,7 @@
     <path
        id="rect1936"
        style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:3.5;stroke-dasharray:none"
-       d="M 16.5,20.5 H 9.3750002 C 8.33625,20.5 7.5,19.608 7.5,18.5 v -8 c 0,-1.1079997 0.83625,-2 1.8750002,-2 v 0 H 20.625 c 1.03875,0 1.875,0.8920003 1.875,2 v 4" />
+       d="M 15.9,19.5 H 9.2500002 C 8.2805,19.5 7.5,18.682333 7.5,17.666667 V 10.333333 C 7.5,9.317667 8.2805,8.5 9.2500002,8.5 v 0 H 19.75 c 0.9695,0 1.75,0.817667 1.75,1.833333 V 14" />
     <rect
        style="display:none;fill:none;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:3.5;stroke-dasharray:none"
        id="rect848"
@@ -62,17 +73,17 @@
        id="rect974"
        width="8"
        height="7.9999995"
-       x="16.5"
-       y="14.500001"
+       x="15.5"
+       y="13.5"
        rx="2"
        ry="2" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 18.5,18.500002 h 4"
+       d="m 17.5,17.500002 h 4"
        id="path1807" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 20.5,20.5 v -4"
+       d="m 19.5,19.5 v -4"
        id="path1809" />
   </g>
 </svg>

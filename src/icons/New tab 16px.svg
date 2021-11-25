@@ -24,9 +24,9 @@
      inkscape:document-units="px"
      showgrid="true"
      units="px"
-     inkscape:zoom="22.627418"
-     inkscape:cx="4.7066793"
-     inkscape:cy="15.003921"
+     inkscape:zoom="16.000001"
+     inkscape:cx="-0.65624997"
+     inkscape:cy="22.531249"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -125,14 +125,14 @@
     </clipPath>
   </defs>
   <rect
-     style="fill:none;stroke:#000000;stroke-width:0.999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#000000;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect1045"
-     width="14.000001"
-     height="11"
-     x="6.5000005"
-     y="10.5"
+     width="13"
+     height="10"
+     x="7.5"
+     y="11.5"
      rx="2"
-     ry="1.9999999" />
+     ry="1.9999998" />
   <path
      id="rect2133"
      style="display:none;fill:none;stroke:#000000;stroke-width:0.999999;stroke-linecap:square;stroke-linejoin:round"
@@ -141,6 +141,6 @@
   <path
      id="rect7562"
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     d="M 9.5,9.4999999 C 9.5,8.3919999 10.391014,7.5 11.497789,7.5 h 9.988942 c 1.106774,0 1.997788,0.8919999 1.997788,1.9999999 V 16.5 c 0,1.108 0.20777,2 -0.899004,2"
+     d="M 10.5,10.409091 C 10.5,9.3514544 11.32737,8.5 12.355089,8.5 h 9.275446 c 1.027719,0 1.85509,0.8514544 1.85509,1.909091 v 6.681818 C 23.485625,18.148545 23.678553,19 22.650834,19"
      sodipodi:nodetypes="cssssc" />
 </svg>
