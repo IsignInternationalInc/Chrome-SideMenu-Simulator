@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      showgrid="true"
      inkscape:snap-global="false"
-     inkscape:zoom="22.627417"
-     inkscape:cx="1.3037281"
-     inkscape:cy="11.600971"
+     inkscape:zoom="8"
+     inkscape:cx="-28"
+     inkscape:cy="20.1875"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -34,35 +34,40 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:lockguides="true">
     <inkscape:grid
        type="xygrid"
        id="grid2921" />
     <sodipodi:guide
        position="15.65625,26.03125"
        orientation="0,-1"
-       id="guide3366" />
+       id="guide3366"
+       inkscape:locked="true" />
     <sodipodi:guide
        position="3.9375,23.5"
        orientation="1,0"
-       id="guide3368" />
+       id="guide3368"
+       inkscape:locked="true" />
     <sodipodi:guide
        position="26,22.53125"
        orientation="1,0"
-       id="guide3370" />
+       id="guide3370"
+       inkscape:locked="true" />
     <sodipodi:guide
        position="21.5625,3.9687499"
        orientation="0,-1"
-       id="guide3452" />
+       id="guide3452"
+       inkscape:locked="true" />
   </sodipodi:namedview>
   <path
-     d="m 14.996706,23.5 c 2.501056,-1.033318 5.19369,-2.186994 5.959109,-5 0.692963,-2.268945 0.54607,-5.839462 0.496592,-9 -2.745577,-0.1595256 -6.455701,-3 -6.455701,-3 0,0 -3.729986,2.8915648 -6.4557002,3 -0.04946,3.16159 -0.1683575,6.76906 0.4965924,9 1.0636038,2.705526 3.6448558,4.18758 5.9591078,5 z"
+     d="m 14.965203,23.499999 c 2.693445,-0.946438 5.624454,-3.432452 6.448752,-6.008944 0.746268,-2.078175 0.588075,-5.348487 0.534791,-8.2432914 -2.956775,-0.1461128 -6.952293,-2.7477638 -6.952293,-2.7477638 0,0 -4.016908,2.6484457 -6.9522927,2.7477638 -0.053265,2.8957684 -0.181308,6.1999254 0.5347919,8.2432914 1.1454191,2.478049 3.8939788,5.264832 6.3862508,6.008944 z"
      id="path893"
      style="stroke:#001423;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      sodipodi:nodetypes="ccccccc" />
   <path
      style="fill:none;stroke:#000000;stroke-width:0.999995;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 12.000001,14.5 2.5,3 4.5,-5.5"
+     d="m 12,14.5 2.5,3 3.999999,-5"
      id="path2962"
      sodipodi:nodetypes="ccc" />
 </svg>

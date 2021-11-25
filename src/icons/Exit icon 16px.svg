@@ -6,7 +6,7 @@
    height="30"
    viewBox="0 0 30 30"
    version="1.1"
-   id="svg5"
+   id="svg1855"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="Exit icon 16px.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -14,60 +14,144 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview7"
+     id="namedview1857"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     bordercolor="#000000"
+     borderopacity="0"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="false"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="16"
-     inkscape:cx="13.1875"
-     inkscape:cy="13.46875"
+     units="px"
+     inkscape:zoom="11.313709"
+     inkscape:cx="-13.214057"
+     inkscape:cy="0.22097086"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5"
-     units="px"
-     inkscape:snap-grids="false"
-     inkscape:snap-to-guides="false"
+     inkscape:current-layer="svg1855"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-page="true"
+     scale-x="1"
      inkscape:snap-others="false"
      inkscape:object-nodes="false"
-     inkscape:snap-global="false"
+     inkscape:snap-nodes="false"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false">
     <inkscape:grid
        type="xygrid"
-       id="grid829" />
+       id="grid17525"
+       empspacing="2"
+       color="#f43fea"
+       opacity="0.1254902"
+       dotted="false"
+       originx="2.1166666"
+       originy="2.1166666" />
     <sodipodi:guide
-       position="13.523417,26.022524"
-       orientation="0,-1"
-       id="guide823" />
-    <sodipodi:guide
-       position="21.566757,4.0138258"
-       orientation="0,-1"
-       id="guide825" />
-    <sodipodi:guide
-       position="25.986174,11.040699"
+       position="4.1166666,14.883333"
        orientation="1,0"
-       id="guide827" />
+       id="guide864" />
     <sodipodi:guide
-       position="3.9774756,15.946253"
+       position="6.3749996,26"
+       orientation="0,-1"
+       id="guide866" />
+    <sodipodi:guide
+       position="26.116667,21.883333"
        orientation="1,0"
-       id="guide829" />
+       id="guide868" />
+    <sodipodi:guide
+       position="21.116667,3.8833334"
+       orientation="0,-1"
+       id="guide870" />
+    <sodipodi:guide
+       position="26.339726,4.2789924"
+       orientation="0,-1"
+       id="guide852" />
+    <sodipodi:guide
+       position="20.196737,3.9254386"
+       orientation="0,-1"
+       id="guide854" />
   </sodipodi:namedview>
   <defs
-     id="defs2" />
+     id="defs1852">
+    <clipPath
+       id="clip0_1179:2925">
+      <rect
+         width="22"
+         height="22"
+         fill="#ffffff"
+         transform="translate(0.742188)"
+         id="rect14794"
+         x="0"
+         y="0" />
+    </clipPath>
+    <clipPath
+       id="clip0_1179:2925-8">
+      <rect
+         width="22"
+         height="22"
+         fill="#ffffff"
+         transform="translate(0.742188)"
+         id="rect14794-5"
+         x="0"
+         y="0" />
+    </clipPath>
+    <clipPath
+       id="clip0_1179:2925-86">
+      <rect
+         width="22"
+         height="22"
+         fill="#ffffff"
+         transform="translate(0.742188)"
+         id="rect14794-59"
+         x="0"
+         y="0" />
+    </clipPath>
+    <clipPath
+       id="clip0_1179:2925-8-0">
+      <rect
+         width="22"
+         height="22"
+         fill="#ffffff"
+         transform="translate(0.742188)"
+         id="rect14794-5-7"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
   <path
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 8.5,8.5000001 21.5,21.5"
-     id="path1329" />
+     id="rect1045"
+     style="fill:none;stroke:#000000;stroke-width:0.999995;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 18.5,9.5000001 c 0,-1.108 -0.892,-1.9999999 -2,-1.9999999 h -7 c -1.108,0 -1.9999999,0.8919999 -1.9999999,1.9999999 V 19.499999 C 7.5000001,20.608 8.392,21.5 9.5,21.5 h 7 c 1.108,0 2,-0.892 2,-2.000001"
+     sodipodi:nodetypes="cssssssc" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 21.283333,8.5000001 8.716667,21.5"
-     id="path1447" />
+     id="rect2133"
+     style="display:none;fill:none;stroke:#000000;stroke-width:0.999999;stroke-linecap:square;stroke-linejoin:round"
+     d="M 9.3333333,8.7374999 C 9.3333333,7.5186999 10.091977,7.5 11.145003,7.5 H 21.599231 C 22.652257,7.5 23.5,8.4811999 23.5,9.6999999 V 18.5 h -0.472222"
+     sodipodi:nodetypes="cssscc" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.999996px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 9.9999987,14.500001 H 23.999999"
+     id="path1350"
+     sodipodi:nodetypes="cc" />
+  <g
+     transform="matrix(0.6910607,-0.74864916,0.53009411,0.5742686,-531.94718,-534.01089)"
+     id="g845"
+     style="stroke-width:1.12246;stroke-miterlimit:4;stroke-dasharray:none">
+    <g
+       id="g841"
+       transform="matrix(0.94876743,-0.0849613,0.06503001,1.2395586,-13.411742,959.89727)"
+       style="stroke-width:1.03261;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.03261;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 45.290666,37.355365 4.554176,0.31215 0.311472,-4.544286"
+         id="path839"
+         sodipodi:nodetypes="ccc" />
+    </g>
+  </g>
 </svg>
