@@ -25,16 +25,9 @@ export default function ThemeSection(props: Props){
                 <ThemeItem color="white" name="System" backgroundColor="linear-gradient(-65.79deg, #030303 3.13%, #CBE9FF 68.46%)" />
                 <ThemeItem color="black" name="Light" backgroundColor="#D4E7F6" />
                 <ThemeItem color="white" name="Dark" backgroundColor="black" />
-
             </div>
         );
     }
 
-    return (
-        <MenuItem
-            name="Theme"
-            icon={themeIcon}
-            bottomComponent={renderThemes()}
-        />
-    );
+    return renderThemes();
 }

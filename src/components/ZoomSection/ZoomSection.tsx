@@ -11,7 +11,7 @@ export default function ZoomSection(props: Props) {
         <MenuSection type="top">
             <div className="zoom-section-container">
                 <div style={{ marginLeft: 40 }} >Zoom</div>
-                <div style={{ display: 'flex', width: '100%', justifyContent: 'space-evenly' }}>
+                <div style={{ display: 'flex', width: '80%', justifyContent: 'space-evenly' }}>
                     <div className="zoom-section-separator"></div>
                     <div>-</div>
                     <div>100%</div>

@@ -1,6 +1,9 @@
 .theme-item-container {
     display: flex;
     justify-content: space-between;
+    width: 80%;
+    /* padding-left: 80px;
+    padding-right: 80px; */
 }
 
 .theme-item {
