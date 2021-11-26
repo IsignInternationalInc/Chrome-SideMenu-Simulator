@@ -24,7 +24,7 @@ export default function MenuContainer(props: Props){
                 <MenuItem icon={require("../../icons/Bookmarks 16px.svg").default} name="Bookmarks"/>
                 <MenuItem icon={require("../../icons/Reading list 16px.svg").default} name="Reading list"/>
                 <MenuItem icon={require("../../icons/History 16px.svg").default} name="History"/>
-                <MenuItem iconStyle={{ marginLeft: 59 }} icon={require("../../icons/Downloads 16px.svg").default} name="Downloads"/>
+                <MenuItem iconStyle={{ marginLeft: 39 }} icon={require("../../icons/Downloads 16px.svg").default} name="Downloads"/>
                 <MenuItem icon={require("../../icons/Extensions 16px.svg").default} name="Extension"/>
             </MenuSection>
             <MenuSection type="top">
