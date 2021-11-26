@@ -8,8 +8,9 @@
 
 .theme-item {
     width: 96px;
-    height: 50px;
-    padding-bottom: 14px;
+    height: 60px;
+    padding-bottom: 4px;
+    margin-bottom: 8px;
     color: white;
     display: flex;
     justify-content: center;
