@@ -6,10 +6,8 @@
 
 .menu-separator {
     width: 90%;
-    height: 0px;    
-    background: #0072BB;
-    /* WB blue color */
-    border: 1px solid #0078D4;
+    height: 1px;    
+    background: #0078D4;
     margin-top: 12px;
     margin-bottom: 12px;
 }
